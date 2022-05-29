@@ -1,0 +1,43 @@
+.container {
+    background-color: whitesmoke;
+    display: flex;
+    padding-top: 20px;
+}
+
+.navbar1 {
+    display: none;
+}
+
+.sidebar {
+    width: 190px;
+    padding: 15px;
+}
+
+.cardContainer {
+    flex-grow: 1;
+}
+
+.itemsContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.selectItems {
+    text-align: left;
+}
+
+.select {
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px){
+	.navbar {
+        display: none;
+    }
+	.navbar1 {
+        display: block;
+    }
+    .sidebar {
+        padding: 0px;
+    }
+}
