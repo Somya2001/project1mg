@@ -1,3 +1,7 @@
-# project1mg
+# Project1mg
 
-it is an India's Leading Online Pharmacy & and Healthcare platform.
+It is an India's Leading Online Pharmacy & and Healthcare platform. It provides services, including e-pharmacy, diagnostics, e-consultation and health content.
+
+##Tech Stack
+
+
